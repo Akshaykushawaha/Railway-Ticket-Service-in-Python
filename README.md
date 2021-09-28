@@ -1,6 +1,7 @@
 # Railway-Ticket-Service-in-Python
 This project is based on a python program made by me on train ticket reservation service in class 11, this year I have upgraded the program and implemented many of the things that we have learnt in class 12. In this program there are basically 5 services which we can choose and after getting the desired output, the program will confirm if now we want any other services, satisfying which the program loops back.
 I have introduced in the program the concept of functions, file handling and Python-Mysql connector.
+
 <br />The main program being- 
 1) Ticket reservation:- 
 <br />•Is a big program in which there are many choices that we need to make like train’s name, to enter starting and ending destinations, class of coach etc.
@@ -13,7 +14,9 @@ I have introduced in the program the concept of functions, file handling and Pyt
 <br />•At the end of the 1st program we are asked if we want to read the copy of the bill from the text document, if yes then the text document is read and printed.(This we can use to ensure if the text document is created properly or not)
 <br />•The whole program is having ‘while loops’ at various steps to check whether the input is correct, if it doesn’t comply with the required parameters then the loop will continue until the correct input is given.
 <br />•And at last again we are asked if we need any other service. 
+
 <br />The other minor (simple) services are:-
+
 2) Enquire about ticket’s waiting list- output is a simple statement which displays a number which we can sms our ticket no. to get our ticket status.
 3) Get your ticket printed – we are given a site to visit where we can get it printed.
 4) Track a Train's live location – we are given a number which we can sms our train number to get the location of the train.
